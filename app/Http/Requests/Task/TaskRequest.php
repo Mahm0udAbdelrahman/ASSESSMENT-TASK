@@ -2,7 +2,7 @@
 
 namespace App\Http\Requests\Task;
 
-use App\enums\StatusTask;
+use App\Enums\StatusTask;
 use Illuminate\Foundation\Http\FormRequest;
 
 class TaskRequest extends FormRequest
