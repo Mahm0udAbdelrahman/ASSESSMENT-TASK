@@ -1,8 +1,6 @@
 <?php
 
 namespace App\Enums;
- 
-
 enum StatusTask:int
 {
     case pending = 1;
